@@ -1,6 +1,6 @@
 {
   "name": "query-ast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library to traverse/modify an AST",
   "main": "dist/index.js",
   "license": "BSD-3-Clause",
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "invariant": "2.2.2",
-    "lodash": "4.17.4"
+    "lodash": "4.17.11"
   },
   "devDependencies": {
     "babel-cli": "6.23.0",
